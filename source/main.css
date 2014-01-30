@@ -8,3 +8,23 @@
   margin: 0 auto;  
   width: 600px;
 }
+nav {
+	width: 100%;
+	border-top: solid 1px gray;
+	border-bottom: solid 1px gray;
+}
+nav ul {
+	list-style: none;
+	padding-left: 0;
+}
+nav ul li {
+	display: inline;
+	padding: 20px 20px 20px 0;
+}
+.content{
+	width: 100%;
+}
+.footer{
+	border-top: solid 1px gray;
+	padding: 20px 0 20px 0;
+}
