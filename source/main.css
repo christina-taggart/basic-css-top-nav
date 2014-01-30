@@ -8,3 +8,29 @@
   margin: 0 auto;  
   width: 600px;
 }
+
+
+nav{
+	display: inline;
+
+}
+
+li{
+	display: inline;
+	padding-right: 10px;
+}
+
+ul{
+	margin-left: -40px;
+	margin-top: 20px;
+
+}
+
+header{
+	border-bottom: 1px solid black;
+}
+
+.content{
+	border: 1px solid black;
+	border-left: 0;
+}
