@@ -16,15 +16,16 @@ nav {
 nav ul {
 	list-style: none;
 	padding-left: 0;
+	margin: 15px 0 0 0;
 }
 nav ul li {
 	display: inline;
-	padding: 20px 20px 20px 0;
+	padding-right: 20px;
 }
 .content{
 	width: 100%;
 }
 .footer{
 	border-top: solid 1px gray;
-	padding: 20px 0 20px 0;
+	padding: 20px 0;
 }
