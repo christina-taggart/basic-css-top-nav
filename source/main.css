@@ -26,4 +26,14 @@ body {
 
 li {
   list-style: none;
+  display: inline;
+  padding: 0px 5px;
+}
+
+nav {
+  border-top: solid 1px gray;
+}
+
+ul {
+  padding-left: 0px;
 }
