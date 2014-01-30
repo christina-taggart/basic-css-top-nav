@@ -1,13 +1,17 @@
+/** {
+  border: 1px dotted black;
+}*/
+
 .container {
   margin: 0 auto;
-  width: 735px;
+  width: 600px;
 }
 
 nav {
+  border-top: 2px solid lightgray;
   display: inline-block;
-  float: right;
-  vertical-align: top;
-  width: 100px;
+  /*height: 50px;*/
+  width: 100%;
 }
 
 ul {
@@ -15,7 +19,13 @@ ul {
   padding: 0px;
 }
 
+li {
+  display: inline;
+  margin-right: 15px;
+}
+
 .content {
+  border-top: 2px solid lightgray;
   display: inline-block;
   border-right: 2px solid lightgray;
   padding-right: 20px;
@@ -28,5 +38,5 @@ ul {
   display: block;
   text-align: left;
   padding: 20px 0px;
-  width: 695px;
+  width: 100%;
 }
