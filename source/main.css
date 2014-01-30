@@ -19,15 +19,15 @@
   padding: 20px 0;
 }
 
-
 ul {
-  padding: 19px 0;
+  padding: 19px 0 0 0;
   border-top: 1px solid grey;
-  border-bottom: 1px solid grey
+  margin: 0;
 }
 
 li {
   display: inline-block;
+  padding-right: 10px;
 }
 
 p {
