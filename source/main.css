@@ -8,3 +8,36 @@
   margin: 0 auto;  
   width: 600px;
 }
+
+header{
+	border-bottom: solid thin black;
+	margin-bottom: -10px;
+}
+
+body{
+	float: center;
+}
+
+ul {
+	margin-left: -40px;
+	padding-top: 10px;
+	list-style: none;
+	text-align: left;
+}
+
+li {
+		float: left;
+		display: inline;
+		margin-right: 20px;
+}
+
+.content {
+	border-top: solid thin black;
+	padding-right: 35px;
+	border-right: solid thin black;
+	height: 840px;
+}
+
+.footer {
+	border-top: solid thin black;
+}
